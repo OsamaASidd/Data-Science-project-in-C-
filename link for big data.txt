@@ -1,0 +1,3 @@
+https://www.kaggle.com/datasets/promptcloud/toys-and-games-on-amazonin
+
+note* using json-nlohmann github for reference in data manipulation
